@@ -1,6 +1,6 @@
 # Hi there 🖐,  I'm [Christian](https://xhrisz98.github.io/portafolio/)
 
-[game](https://xhrisz98.github.io/cube-game/)
+
 
 
 <!--
