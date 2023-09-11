@@ -4,9 +4,9 @@
 
 #**About me**
 
-Web developer 💻|| Digital Marketer 🔍
-I develop websites for small, medium-sized companies incorporating knowledge and digital marketing tools 🍂🥇✨
-Graduated from the Bachelor in Business informatics at the Southern Federal University ||  Russia 💻☺️
+Web developer 💻|| Digital Marketer 🔍.
+I develop websites for small, medium-sized companies incorporating knowledge and digital marketing tools. 🍂🥇✨
+Graduated from the Bachelor in Business informatics at the Southern Federal University ||  Russia 💻☺️.
 
 
 <!--
