@@ -1,6 +1,5 @@
 # Hi there 🖐,  I'm [Christian](https://xhrisz98.github.io/portafolio/)
 
-**Learning is fun!☺️! Let's Work Together 📞**
 
 ![Descripción de la imagen](JuniorWebDeveloper.png)
 
@@ -21,6 +20,9 @@ Graduated from the Bachelor in Business informatics at the Southern Federal Univ
 
 
 **Here you will find some of my projects**
+
+**Learning is fun!☺️! Let's Work Together 📞**
+
 🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
 <!--
 **Xhrisz98/Xhrisz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
