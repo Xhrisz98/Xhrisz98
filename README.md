@@ -11,17 +11,23 @@ I develop websites for small, medium-sized companies incorporating knowledge and
 
 Graduated from the Bachelor in Business informatics at the Southern Federal University ||  Russia 💻☺️.
 
-#**Skills:**
+**Skills:**
+
 -Web Designer
+
 -Digital Marketing
+
 -Seo
+
 -Content development
+
 -Data analytics
 
 
-**Here you will find some of my projects**
-
 **Learning is fun!☺️! Let's Work Together 📞**
+
+
+**Here you will find some of my projects**
 
 🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
 <!--
