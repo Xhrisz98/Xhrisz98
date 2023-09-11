@@ -1,5 +1,6 @@
 # Hi there 🖐,  I'm [Christian](https://xhrisz98.github.io/portafolio/)
-![Junior Web Designer](/images/Junior Web Developer.png)
+
+![Descripción de la imagen](/images/JuniorWebDeveloper.png)
 
 
 
