@@ -2,10 +2,12 @@
 
 ![Descripción de la imagen](JuniorWebDeveloper.png)
 
-**#About me**
+#**About me**
 
-Web developer 💻|| Digital Marketer 🔍 I develop websites for small, medium-sized companies incorporating knowledge and digital marketing tools 🍂🥇✨
+Web developer 💻|| Digital Marketer 🔍
+I develop websites for small, medium-sized companies incorporating knowledge and digital marketing tools 🍂🥇✨
 Graduated from the Bachelor in Business informatics at the Southern Federal University ||  Russia 💻☺️
+
 
 <!--
 **Xhrisz98/Xhrisz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
