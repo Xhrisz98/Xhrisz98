@@ -1,4 +1,4 @@
-<center># Hi there, I'm [Christian Paul](https://xhrisz98.github.io/portafolio/)👋</center>
+<center># Hi there, I'm [Christian Paul](https://xhrisz98.github.io/portafolio/) </center>
 
 <!--
 **Xhrisz98/Xhrisz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
