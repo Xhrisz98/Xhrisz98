@@ -1,5 +1,5 @@
-# cube-game
-Cube-game
+# Hi there 🖐,  I'm [Christian](https://xhrisz98.github.io/cube-game/)
+
 [game](https://xhrisz98.github.io/cube-game/)
 
 
