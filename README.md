@@ -68,7 +68,7 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo:
 
 ### 🌱 En qué estoy trabajando ahora
 
-- 🔭 Actualmente estoy desarrollando Web de mi Agencia de viajes y estudios en el extranjeo, una aweb hecha con TypeScript, React, TailwindCSS.
+- 🔭 Actualmente estoy desarrollando la Web de mi Agencia de viajes y estudios en el extranjeo, una Web hecha con TypeScript, React, TailwindCSS.
 - 🌱 Estoy profundizando mis conocimientos en Desarrollo Web y Analisis de Datos.
 - 👯 Busco colaborar en proyectos de código abierto que combinen desarrollo web y análisis de datos.
 
