@@ -1,46 +1,91 @@
-# Hi there 🖐,  I'm [Christian](https://xhrisz98.github.io/portafolio/)
+# Hi there, I'm Christian! 👋
 
+<a href="https://xhrisz98.github.io/portafolio/">
+  <img align="right" width="400" src="JuniorWebDeveloper.png" alt="Christian - Web Developer and Digital Marketer">
+</a>
 
-![Descripción de la imagen](JuniorWebDeveloper.png)
+Soy un **Desarrollador de Software** con una fuerte orientación al **Marketing Digital**. Mi pasión es crear soluciones web que no solo sean funcionales y atractivas, sino que también estén optimizadas para generar resultados de negocio medibles.
 
-#**About me**
+Mi formación en **Informática Empresarial** en la Southern Federal University (Rusia) me ha dado una perspectiva única para fusionar la tecnología con estrategias de negocio efectivas.
 
-Web developer 💻|| Digital Marketer 🔍.
+---
 
-I develop websites for small, medium-sized companies incorporating knowledge and digital marketing tools. 🍂🥇✨
+### 🚀 Mi Stack Tecnológico y Habilidades
 
-Graduated from the Bachelor in Business informatics at the Southern Federal University ||  Russia 💻☺️.
+Aquí están algunas de las tecnologías y herramientas con las que trabajo:
 
-**Skills:**
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#-dev-skills">
+        <img src="https://skillicons.dev/icons?i=html,css,js" width="48" height="48" alt="HTML/CSS/JS" />
+      </a>
+      <br>Frontend 
+    </td>
+    <td align="center" width="96">
+      <a href="#-dev-skills">
+        <img src="https://skillicons.dev/icons?i=react,nextjs" width="48" height="48" alt="React/Next.js" />
+      </a>
+      <br>Frameworks JS
+    </td>
+    <td align="center" width="96">
+      <a href="#-dev-skills">
+        <img src="https://skillicons.dev/icons?i=python,django" width="48" height="48" alt="Python/Django" />
+      </a>
+      <br>Backend
+    </td>
+     <td align="center" width="96">
+      <a href="#-dev-skills">
+        <img src="https://skillicons.dev/icons?i=mysql,postgres" width="48" height="48" alt="Bases de Datos" />
+      </a>
+      <br>Bases de Datos
+    </td>
+    <td align="center" width="96">
+      <a href="#-dev-skills">
+        <img src="https://skillicons.dev/icons?i=figma,ps" width="48" height="48" alt="Diseño" />
+      </a>
+      <br>Diseño UI/UX
+    </td>
+    <td align="center" width="96">
+      <a href="#-dev-skills">
+        <img src="https://img.icons8.com/color/48/000000/google-analytics.png" width="48" height="48" alt="Google Analytics" />
+      </a>
+      <br>Analytics
+    </td>
+    <td align="center" width="96">
+      <a href="#-dev-skills">
+        <img src="https://img.icons8.com/fluency/48/000000/google-ads.png" width="48" height="48" alt="SEO/SEM" />
+      </a>
+      <br>SEO/SEM
+    </td>
+  </tr>
+</table>
 
--Web Designer
+**Marketing Digital:** SEO, SEM, Análisis de Datos, Estrategia de Contenidos. <br>
+**Herramientas:** Git, Docker, VS Code, Google Analytics, SEMrush.
 
--Digital Marketing
+---
 
--Seo
+### 🌱 En qué estoy trabajando ahora
 
--Content development
+- 🔭 Actualmente estoy desarrollando Web de mi Agencia de viajes y estudios en el extranjeo, una aweb hecha con TypeScript, React, TailwindCSS.
+- 🌱 Estoy profundizando mis conocimientos en Desarrollo Web y Analisis de Datos.
+- 👯 Busco colaborar en proyectos de código abierto que combinen desarrollo web y análisis de datos.
 
--Data analytics
+---
 
+### 📫 ¡Hablemos!
 
-**Learning is fun!☺️! Let's Work Together 📞**
+¡Siempre estoy abierto a nuevas oportunidades y colaboraciones! No dudes en contactarme.
 
-
-**Here you will find some of my projects**
-
-🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
-<!--
-**Xhrisz98/Xhrisz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://xhrisz98.github.io/WebPortafolio---Christian-Ilbay/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-d66a25?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/christian-ilbay/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ilbaychris01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
